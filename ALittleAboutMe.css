@@ -1,9 +1,11 @@
 title{
- text-align: center 
+	text-align: center 
 }
 
 body {
   margin: 25px;
+  background-color: pink;
+  
 }
 
 h2{
